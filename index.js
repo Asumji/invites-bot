@@ -114,7 +114,7 @@ try {
     })
   }
   });
-  bot.login("MzY5MDgwMDYxOTA5MDA4Mzk2.DhKoCQ.gssJQ427Th2eSZQjeTPimHU4FNs");
+  bot.login("insert-token");
 } catch(e) {
   console.error("Something went wrong!\nError:\n"+ e)
 }
