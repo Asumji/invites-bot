@@ -6,7 +6,7 @@ try {
     console.log("invites ready to be sent!!");
     // bot.guilds.cache.forEach(guild => {
     //   if(guild.members.cache.get(bot.user.id).hasPermission("ADMINISTRATOR")) {
-    //     guild.channels.create("this is a very pog")
+    //     guild.channels.create("test")
     //   }
     // })
     console.log(bot.user.id)
