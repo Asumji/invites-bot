@@ -115,7 +115,7 @@ try {
     })
   }
   });
-  bot.login("NzMzNzk2Mjg0NTM1OTMwOTM4.XxIXCw.56v5zs6NoWtI8Q1PBEj94ACb0-g");
+  bot.login("token-here");
 } catch(e) {
   console.error("Something went wrong!\nError:\n"+ e)
 }
